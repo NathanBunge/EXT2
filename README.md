@@ -14,3 +14,4 @@ file systems along with protecting files. The commands of this level are mount, 
 points, and file permission checking. Thereby making a functioning EXT2 file system.
 
 ## Report: 
+Full project report can be found [here](https://github.com/NathanBunge/EXT2/wiki)
