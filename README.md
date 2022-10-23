@@ -12,4 +12,4 @@ The next level, level 2, consist of reading and writing file content. The comman
 The last level is level 3 which deals with mounting and unmounting file systems along with protecting files. The commands of this level are mount, unmount, cross mounting points, and file permission checking. Thereby making a functioning EXT2 file system.
 
 ## Report: 
-Full project report can be found on [here](https://github.com/NathanBunge/EXT2/wiki)
+Full project report can be found [here](https://github.com/NathanBunge/EXT2/wiki)
