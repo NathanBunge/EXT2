@@ -1,5 +1,4 @@
-# EXT2
-
+# EXT2 Linux File System
 
 ## Project Summery: 
 This project works on designing and implementing a Linux second extended file system (EXT2). To complete this project, we read chapter 11 of our textbook written by K.C. Wang. The project consists of three levels, each level does a different part of the file system. 
